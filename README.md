@@ -1,5 +1,5 @@
 # Lane Detector 🤖
-How it started:
+**How it started:**
 ![Image](https://www.thestatesman.com/wp-content/uploads/2017/08/1491394593-highway--getty517.jpg 'road')
 
 ---
@@ -27,5 +27,5 @@ The project was created with:
 ---
 
 # Our detector
-How it is going:
+**How it's going:**
 ![Image]()
