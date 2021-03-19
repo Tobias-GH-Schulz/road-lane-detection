@@ -19,11 +19,9 @@ The project was created with:
 ---
 
 ## The team 👨🏾‍💻 👩🏾‍💻
-- **Tobias Schulz** [Github](https://github.com/Tobias-GH-Schulz)
 - **Aderemi Fayoyiwa** [Github](https://github.com/AderemiF)
 - **Oyedemi Oluseyi** [Github](https://github.com/Seyi85)
-- **Marcin Szleszynski** [Github](https://github.com/martinezpl)
-
+- **Tobias Schulz** [Github](https://github.com/Tobias-GH-Schulz)
 ---
 
 # Our detector
