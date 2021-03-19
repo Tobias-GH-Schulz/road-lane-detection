@@ -1,4 +1,4 @@
-# Lane Detector 🤖
+# Lane Detector 🛣
 **How it started:**
 ![Image](https://www.thestatesman.com/wp-content/uploads/2017/08/1491394593-highway--getty517.jpg 'road')
 
